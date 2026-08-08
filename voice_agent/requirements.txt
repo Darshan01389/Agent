@@ -1,0 +1,11 @@
+flet>=0.24.0
+python-dotenv>=1.0.0
+openai>=1.40.0
+nvidia-riva-client>=2.17.0
+grpcio>=1.60.0
+sounddevice>=0.4.6
+numpy>=1.26.0
+scipy>=1.11.0
+noisereduce>=3.0.0
+pyttsx3>=2.90
+keyboard>=0.13.5
